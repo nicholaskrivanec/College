@@ -1,0 +1,10 @@
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\obj\Debug\DiceGuessGame.csprojResolveAssemblyReference.cache
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\obj\Debug\DiceGuessGame.Form1.resources
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\obj\Debug\DiceGuessGame.Properties.Resources.resources
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\obj\Debug\DiceGuessGame.csproj.GenerateResource.Cache
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\obj\Debug\DiceGuessGame.csproj.CoreCompileInputs.cache
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\bin\Debug\DiceGuessGame.exe.config
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\bin\Debug\DiceGuessGame.exe
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\bin\Debug\DiceGuessGame.pdb
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\obj\Debug\DiceGuessGame.exe
+c:\users\nkriv_000\Desktop\C#\DiceGuessGame\DiceGuessGame\obj\Debug\DiceGuessGame.pdb
